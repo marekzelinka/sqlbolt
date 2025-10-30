@@ -24,7 +24,7 @@
 -- 9	WALL-E	Andrew Stanton	2008	104
 -- 10	Up	Pete Docter	2009	101
 
--- Solutions
+-- Tasks:
 
 -- Find all the Toy Story movies:
 SELECT * FROM movies WHERE title LIKE "%toy%";

@@ -31,7 +31,7 @@
 -- Montreal	            Canada	        1717767	    45.501689	-73.567256
 -- Chicago	            United States	2718782	    41.878114	-87.629798
 
--- Solutions:
+-- Tasks:
 
 -- List all the Canadian cities and their populations:
 SELECT * FROM north_american_cities WHERE country = "Canada";

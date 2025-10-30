@@ -20,7 +20,7 @@
 -- 10	Up	Pete Docter	2009	101
 
 
--- Solutions
+-- Tasks:
 
 -- Find the title of each film:
 SELECT title FROM movies;

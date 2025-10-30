@@ -23,7 +23,7 @@
 -- 13	WALL-E	Andrew Stanton	2008	104
 -- 14	Monsters, Inc.	Pete Docter	2001	92
 
--- Solutions
+-- Tasks:
 
 -- List all directors of Pixar movies (alphabetically), without duplicates:
 SELECT DISTINCT director FROM movies ORDER BY director;
