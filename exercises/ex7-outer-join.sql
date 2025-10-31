@@ -1,16 +1,16 @@
 -- Exercise
--- 
+--
 -- In this exercise, you are going to be working with a new table which stores fictional data about Employees in the film studio and their assigned office Buildings. Some of the buildings are new, so they don't have any employees in them yet, but we need to find some information about them regardless.
--- 
+--
 -- Since our browser SQL database is somewhat limited, only the LEFT JOIN is supported in the exercise below.
--- 
+--
 -- Table: buildings (Read-only)
 -- building_name	capacity
 -- 1e	            24
 -- 1w	            32
 -- 2e	            16
 -- 2w	            20
--- 
+--
 -- Table: employees (Read-only)
 -- role	    name	    building  years_employed
 -- Engineer	Becky A.	1e	      4
