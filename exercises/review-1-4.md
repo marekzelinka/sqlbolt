@@ -1,4 +1,4 @@
-# Review: Simple SELECT Queries
+# SQL Review: Simple SELECT Queries
 
 In the exercise below, you will be working with a different table. This table instead contains information about a few of the most populous cities of [North America](http://en.wikipedia.org/wiki/List_of_North_American_cities_by_population) including their population and geo-spatial location in the world.
 

@@ -1,4 +1,4 @@
-# Lesson 9: Queries with expressions
+# SQL Lesson 9: Queries with expressions
 
 You are going to have to use expressions to transform the **BoxOffice** data into something easier to understand for the tasks below.
 

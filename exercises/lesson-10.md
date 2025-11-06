@@ -1,4 +1,4 @@
-# Lesson 10: Queries with aggregates (Pt. 1)
+# SQL Lesson 10: Queries with aggregates (Pt. 1)
 
 For this exercise, we are going to work with our **Employees** table. Notice how the rows in this table have shared data, which will give us an opportunity to use aggregate functions to summarize some high-level metrics about the teams. Go ahead and give it a shot.
 

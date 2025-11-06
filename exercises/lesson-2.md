@@ -1,4 +1,4 @@
-# Lesson 2: Queries with constraints (Pt. 1)
+# SQL esson 2: Queries with constraints (Pt. 1)
 
 Using the right constraints, find the information we need from the Movies table for each task below.
 
