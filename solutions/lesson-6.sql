@@ -4,8 +4,7 @@ FROM movies
     INNER JOIN boxoffice
         ON movies.id = boxoffice.movie_id;
 
--- Show the sales numbers for each movie that did better internationally rather
--- than domestically:
+-- Show the sales numbers for each movie that did better internationally rather than domestically:
 SELECT *
 FROM movies
     INNER JOIN boxoffice
