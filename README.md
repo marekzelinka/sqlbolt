@@ -4,7 +4,7 @@ Exercises designed to help you quickly learn SQL right in your browser.
 
 [SQLBolt](https://sqlbolt.com/)
 
-[CONTINUE](https://sqlbolt.com/lesson/select_queries_order_of_execution)
+[CONTINUE](https://sqlbolt.com/lesson/updating_rows)
 
 ## Tools
 
