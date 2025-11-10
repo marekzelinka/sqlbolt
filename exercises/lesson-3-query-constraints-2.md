@@ -2,15 +2,15 @@
 
 Here's the definition of a query with a WHERE clause again, go ahead and try and write some queries with the operators above to limit the results to the information we need in the tasks below.
 
-> Select query with constraints
->
-> ```sql
-> SELECT column, another_column, …
-> FROM mytable
-> WHERE condition
->     AND/OR another_condition
->     AND/OR …;
-> ```
+## Select query with constraints
+
+```sql
+SELECT column, another_column, …
+FROM mytable
+WHERE condition
+    AND/OR another_condition
+    AND/OR …;
+```
 
 ## Tables
 
